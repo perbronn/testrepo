@@ -2,7 +2,7 @@
 første repo for å teste oppsett
 og her endrer jeg litt
 
-###Markdown er kult
+###Markdown heading
 
 > sitat fra en kjent forfatter 
 
